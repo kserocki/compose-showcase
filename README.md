@@ -3,11 +3,12 @@
 Interactive UI components I built with Jetpack Compose — custom physics, shaders, sensors and
 gesture-driven animation. Recorded on an Android emulator.
 
-> Source code is available on request — happy to walk through it in an interview.
+> GravityJar source: [`gravity-jar/`](gravity-jar) — open it in Android Studio and run `app`.
+> ScratchTicket source is available on request.
 
 ---
 
-## GravityJar — physics-based community tip jar
+## [GravityJar](gravity-jar) — physics-based community tip jar
 
 <img src="media/tip-jar.gif" width="300" align="right" alt="Tip jar demo: avatars fall into a bowl as tips are added, until the goal is reached" />
 
