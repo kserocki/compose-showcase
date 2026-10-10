@@ -46,7 +46,7 @@ phone tilts; once a code is redeemed the user scratches it off to reveal their c
   `BlendMode.Clear`; coverage is sampled on a grid and the panel auto-dissolves past a threshold.
 - **Custom `Shape`** — ticket outline built with path boolean ops: scalloped edges and perforation
   notches.
-- **Polish** — haptic ticks while scratching, a coin "scratch me" attract loop, spring-animated
+- **Polish** — haptic ticks while scratching, a ghost-finger "scratch me" attract loop, spring-animated
   "Added" badge and amount reveal.
 - **MVVM** — `ViewModel` + `StateFlow` modelling locked → loading → unlocked → revealed.
 
