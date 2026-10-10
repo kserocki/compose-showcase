@@ -3,8 +3,8 @@
 Interactive UI components I built with Jetpack Compose — custom physics, shaders, sensors and
 gesture-driven animation. Recorded on an Android emulator.
 
-> GravityJar source: [`gravity-jar/`](gravity-jar) — open it in Android Studio and run `app`.
-> ScratchTicket source is available on request.
+> Each demo is a standalone Gradle project — open [`gravity-jar/`](gravity-jar) or
+> [`scratch-ticket/`](scratch-ticket) in Android Studio and run `app`.
 
 ---
 
@@ -30,7 +30,7 @@ the jar erupts with flame particles.
 
 ---
 
-## ScratchTicket — holographic scratch-off reward
+## [ScratchTicket](scratch-ticket) — holographic scratch-off reward
 
 <img src="media/scratch-ticket.gif" width="300" align="right" alt="Scratch ticket demo: tilting shifts the holographic foil, a promo code unlocks it and dragging scratches it off to reveal $25" />
 
