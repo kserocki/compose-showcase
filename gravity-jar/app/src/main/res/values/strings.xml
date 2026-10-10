@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GravityJar</string>
+
+    <!-- Common -->
+    <string name="common_you">You</string>
+    <string name="common_cancel">Cancel</string>
+
+    <!-- Community coupon jar ("Bless the Chat") -->
+    <string name="live_room_blesschat_button_add_card">Add Card</string>
+    <string name="live_room_blesschat_button_coupon_ready">Coupon Ready!</string>
+    <string name="live_room_blesschat_button_send_tip">Send %s Tip</string>
+    <string name="live_room_blesschat_button_slide_to_tip">Slide to Tip</string>
+    <string name="live_room_blesschat_confirm_tip_amount">Tip Amount: %s</string>
+    <string name="live_room_blesschat_confirm_tip_description">This payment uses your default card. Just a heads-up, tips aren\'t refundable</string>
+    <string name="live_room_blesschat_confirm_tip_processing">Payment Processing: %s</string>
+    <string name="live_room_blesschat_confirm_tip_send">Send Tip</string>
+    <string name="live_room_blesschat_confirm_tip_title">Confirm Tip</string>
+    <string name="live_room_blesschat_confirm_tip_total">Total: %s</string>
+    <string name="live_room_blesschat_error_authentication_required">This payment requires additional verification. Please complete the authentication and try again.</string>
+    <string name="live_room_blesschat_error_card_declined">Your card was declined. Please try another card or contact your bank.</string>
+    <string name="live_room_blesschat_error_expired_card">This card has expired. Please use a different card.</string>
+    <string name="live_room_blesschat_error_generic">Payment failed. Please try another card or contact your bank.</string>
+    <string name="live_room_blesschat_error_insufficient_funds">This card has insufficient funds. Please use another card.</string>
+    <string name="live_room_blesschat_error_payment_attempt_issue">There was a problem with this payment attempt. Please try again.</string>
+    <string name="live_room_blesschat_error_payment_failed">This payment could not be completed. Please try again or use another card.</string>
+    <string name="live_room_blesschat_header_overline">Bless the Chat</string>
+    <string name="live_room_blesschat_header_subtitle">Tip towards a community goal. Meet the goal and someone in the livestream wins a coupon boost</string>
+    <string name="live_room_blesschat_header_title">Community Coupon</string>
+    <string name="live_room_blesschat_payment_card_mask">•••• %s</string>
+    <string name="live_room_blesschat_stats_goal_label">Goal</string>
+    <string name="live_room_blesschat_stats_goal_reached_label">Goal Reached</string>
+    <string name="live_room_blesschat_stats_top_tipper_label">Top tipper</string>
+</resources>
